@@ -1,9 +1,16 @@
 {
   "2026-04-11": {
-    "10:06:48": {
+    "10:08:34": {
       "battery_pct": 76,
       "battery_v": 2.93,
-      "humidity_pct": 40.736,
+      "humidity_pct": 40.867,
+      "temperature_c": 22.513,
+      "temperature_f": 72.523
+    },
+    "10:09:41": {
+      "battery_pct": 76,
+      "battery_v": 2.93,
+      "humidity_pct": 40.867,
       "temperature_c": 22.513,
       "temperature_f": 72.523
     }
