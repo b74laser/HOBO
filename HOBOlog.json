@@ -43022,5 +43022,14 @@
       "temperature_c": 21.795,
       "temperature_f": 71.231
     }
+  },
+  "2026-05-03": {
+    "00:04:32": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 41.631,
+      "temperature_c": 21.795,
+      "temperature_f": 71.231
+    }
   }
 }
