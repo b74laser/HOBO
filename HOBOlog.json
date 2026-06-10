@@ -119476,6 +119476,48 @@
       "humidity_pct": 43.854,
       "temperature_c": 22.585,
       "temperature_f": 72.653
+    },
+    "11:56:46": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 43.983,
+      "temperature_c": 22.585,
+      "temperature_f": 72.653
+    },
+    "12:01:51": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 44.048,
+      "temperature_c": 22.585,
+      "temperature_f": 72.653
+    },
+    "12:06:56": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 44.174,
+      "temperature_c": 22.561,
+      "temperature_f": 72.61
+    },
+    "12:12:01": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 44.434,
+      "temperature_c": 22.585,
+      "temperature_f": 72.653
+    },
+    "12:17:06": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 44.627,
+      "temperature_c": 22.585,
+      "temperature_f": 72.653
+    },
+    "12:22:11": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 44.466,
+      "temperature_c": 22.585,
+      "temperature_f": 72.653
     }
   }
 }
