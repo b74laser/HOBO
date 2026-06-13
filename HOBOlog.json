@@ -125579,6 +125579,13 @@
       "humidity_pct": 41.592,
       "temperature_c": 22.609,
       "temperature_f": 72.696
+    },
+    "13:43:18": {
+      "battery_pct": 96,
+      "battery_v": 2.99,
+      "humidity_pct": 42.014,
+      "temperature_c": 22.609,
+      "temperature_f": 72.696
     }
   }
 }
